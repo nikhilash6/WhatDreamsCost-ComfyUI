@@ -48,7 +48,7 @@ It also has a sync feature that syncs all LTX Keyframer nodes together in realti
 **I would recommend using the LTX Sequencer Node over this node, after further testing it seems superior in at pretty much everything. I'll leave it in just in case more people want to test it**
 
 ## 💡 Workflows
-<img width="2720" height="930" alt="LTX I2V First Last Frame 3 Stage Workflow v2" src="https://github.com/user-attachments/assets/14e79336-d2a9-4b0f-a782-fdfeb7aa85da" />
+<img width="3130" height="930" alt="LTX I2V First Last Frame 3 Stage Workflow v3" src="https://github.com/user-attachments/assets/de18a10b-6edf-4857-8eb1-cac1a6683923" />
 
 This is a compact LTX 2.3 workflow for I2V and First Frame, Middle Frame, Last frame video generation.
 I seperated and organized everything into subraphs to make things as clean as possible, and added toggles to customize the workflow quickly.
